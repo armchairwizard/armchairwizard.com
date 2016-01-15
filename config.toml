@@ -1,0 +1,4 @@
+baseurl = "https://www.armchairwizard.com"
+languageCode = "en-us"
+title = "ArmchairWizard.com"
+canonifyurls = true
